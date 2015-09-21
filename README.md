@@ -3,8 +3,8 @@
 Simple excercises using Pages and Selenium Locators performing operations in a WordPress Blog.
 
 Case 1:
-1. Open site http://10.28.148.127/wordpress
-2. Verify the page is the expected one according the title.
+  Open site http://10.28.148.127/wordpress
+  Verify the page is the expected one according the title.
 
 Case 2:
 1. Perform a search
